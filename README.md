@@ -11,3 +11,10 @@ I used my peers in order to test this code and ensure that it was functioning as
 #Transferrable skills 
 Some skills used in building this project that could be transferred directly into others would be how to efficiently use math and C++ in order to design a smooth running application. 
 
+#SCREENSHOTS 
+#Display Menu
+<img width="916" alt="CleanShot 2022-10-22 at 10 27 51@2x" src="https://user-images.githubusercontent.com/92835044/197344573-3e62b1d2-371d-4347-be89-0d31b209d98a.png">
+
+#Tables 
+
+<img width="691" alt="CleanShot 2022-10-22 at 10 29 55@2x" src="https://user-images.githubusercontent.com/92835044/197344664-036f0508-f60b-4b84-8ff6-14eb555385cd.png">
