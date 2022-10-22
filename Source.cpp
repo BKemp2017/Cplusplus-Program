@@ -50,7 +50,7 @@ void Savings::reportNoMonthlyDep() {
 //output report with additional monthly deposits
 void Savings::reportWithMonthlyDep() {
 	//heading
-	cout << "       Balance and Interest Without Additional Monthly Deposits" << endl;
+	cout << "          Balance and Interest With Additional Monthly Deposits" << endl;
 	cout << "===================================================================================" << endl;
 	//table heading 
 	cout << setw(10) << "Year" << setw(25) << "Year End Balance" << setw(40) << "Year End Earned Interest Rate" << endl;
@@ -88,6 +88,7 @@ int main() {
 	while (true) {
 		cout << "********************************" << endl;
 		cout << "*********** Data Input *********" << endl;
+		cout << endl;
 		cout << "Initial Investment Amount:" << endl;
 		cout << "Monthly Deposit:" << endl;
 		cout << "Annual Interest:" << endl;
